@@ -1,0 +1,8 @@
+﻿torch
+numpy
+scipy
+scikit-learn
+mat73
+h5py
+progressbar2
+tensorboard
